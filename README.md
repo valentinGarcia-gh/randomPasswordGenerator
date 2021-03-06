@@ -1,5 +1,11 @@
 # 03 JavaScript: Password Generator
-
+## Installation
+```
+Link to working site
+<https://valentingarcia-gh.github.io/randomPasswordGenerator/>
+Link to Github repo
+<https://github.com/valentinGarcia-gh/randomPasswordGenerator>
+```
 ## My Task
 
 This week’s homework required me to modify starter code to create an application that enables employees to generate random passwords based on criteria that they’ve selected. This app runs in the browser and features dynamically updated HTML and CSS powered by JavaScript code that I wrote. It has a clean and polished, responsive user interface that adapts to multiple screen sizes.
