@@ -38,5 +38,6 @@ THEN the password is either displayed in an alert or written to the page
 
 I created a random password generator that creates a password from 8 to 125 characters that contains random numbers, letters and special characters such as $#@!. If the user enters anything less or more than the specified number of characters, then an alert will throw telling them to meet password length. If the user does not choose any of the password options such as upper case, lower case, numbers, or special characters, then an alert will be thrown saying they must choose at least option for the password. 
 
-Below is what the password generator looks like. 
-![Screenshot](./Assets/password generator.png)
+Below is what the password generator looks like with the happy path. 
+
+![Screenshot](./Assets/passwordGenerator.png)
