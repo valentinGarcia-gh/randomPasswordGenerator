@@ -26,7 +26,7 @@ function generatePassword() {
     var retSpecial = confirm("Click 'OK' to confirm using special characters.");  
   } else {
     alert("Your password does not meet the length specifics!");
-    return "";
+    return;
   }
 
   // Check to see if at least one password requirement is met
