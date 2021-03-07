@@ -46,4 +46,4 @@ I created a random password generator that creates a password from 8 to 125 char
 
 Below is what the password generator looks like with the happy path. 
 
-![Screenshot](./Assets/passwordGenerator.png)
+![Screenshot](./Assets/images/passwordGenerator.png)
